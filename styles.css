@@ -1,0 +1,27 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+.title {
+    font-size: 48px;
+}
+
+.subtitle {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(255, 102, 153);
+    color: rgb(255, 255, 204);
+}
+
+em, h3, .section {
+    color: rgb(255, 102, 153);
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.recipe {
+    background-color: rgb(255, 255, 204);
+    font-size: 20px;
+}
